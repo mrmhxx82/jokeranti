@@ -232,6 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks",
 	"anti-bot-super",
+	"auto-leave"
     },
     sudo_users = {190840223,102111721},--Sudo users
     moderation = {data = 'data/moderation.json'},
